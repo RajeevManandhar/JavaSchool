@@ -1,0 +1,77 @@
+Basic Java Exercise: 
+
+(Covers Java Introduction, data types, operations, OOPs, control statements)
+
+ 
+
+1. Write a program to a specified number of generate fibonacci series. 
+
+Note: Read the required count from the keyboard
+
+2. Explore the option of ‘java’ and ‘javac’ commands?
+
+3.  Write a class BasicCalulator.java to provide basic mathematical operation like 
+
+additional, subtractions, multiplications, and division for two numbers. Write a client 
+
+to use above class and call its operations.
+
+4. Write a java program with following methods: 
+
+ public Boolean IsInteger(String str)
+
+ public Boolean IsOddNumber(String str)
+
+ public Boolean IsEvenNumber(String str)
+
+ public Boolean IsPrimeNumber(String str)
+
+5. Generate following
+
+ Generate 1000 numbers
+
+ Generate multiple of 5 and less than 1000
+
+ Generate odd numbers up to 1000
+
+6. Define a arrary with 10 integers and print all the elements with its index number.
+
+7. Create a class Employee.java with attributes empNo, empName, address, State, 
+
+zipCode, phone, designation (manager, lead, analyst) , experienceinYears, 
+
+emailAddress, basic, hra, bonus (% of basic). Choose appropriate data types and 
+
+create a constructer, getters & setters for the attributes. Also create a method to 
+
+return the total salary (basic + hra + (bonus/100)*basic)
+
+8. Read a contents of text file and count how many times letter “a” is available
+
+9. Define a String buffer and append all alphabets and display the final string. And, do 
+
+the same exercize using StringBuilder.
+
+10. Define an arraylist of states of USA and print them. Use Hashset, Treeset and notice 
+
+the differnce
+
+11. Define an HashMap state code and state name and print them.
+
+12. Define a class with three fields state code, state name and capitals. And define 10 
+
+states. And save in an arraylist. And, print all the objects.
+
+Define a property file with these setting: company. properties
+
+Company: ABC co.
+
+Address: Bay Area, CA
+
+Totalnoofemployees: 2000
+
+Use resource bundle to read these properties and  display to the user
+
+13. Read Date in ‘YYYYMMDD’ format and display in mm/dd/yy format and “dd day 
+
+month yyyy” formats. Handle all the exceptions.
